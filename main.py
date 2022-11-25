@@ -14,8 +14,6 @@ print (check0(L))'''
 
 #program to sort a list recursively
 L = [6, 7, 87, 45, 44, 76, 9]
-
-
 def findMin(L):
   min = L[0]
   for i in L:
